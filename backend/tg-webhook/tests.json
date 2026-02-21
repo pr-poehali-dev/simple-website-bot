@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "name": "Webhook ping",
+      "method": "POST",
+      "path": "/",
+      "body": "{}",
+      "expectedStatus": 200
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tests": [
+    {
+      "name": "Scheduler check",
+      "method": "GET",
+      "path": "/",
+      "expectedStatus": 200
+    }
+  ]
+}
